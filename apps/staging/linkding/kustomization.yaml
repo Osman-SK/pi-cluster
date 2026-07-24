@@ -4,4 +4,6 @@ namespace: linkding
 resources:
   - ../../base/linkding/
   - cloudflare.yaml
+  - cloudflare-secret.yaml
   - test-secret.yaml
+  - linkding-container-env-secret.yaml
